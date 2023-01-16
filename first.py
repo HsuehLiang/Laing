@@ -8,5 +8,6 @@ Created on Mon Jan 16 19:53:20 2023
 A = 10
 B = 30
 D = 5
-C = A + B + D
+E = 10
+C = A + B + D - E
 print(C)
